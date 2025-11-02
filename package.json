@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oliveira-a/site.git"
+    "url": "git+https://github.com/andbrl/site.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oliveira-a/site/issues"
+    "url": "https://github.com/andbrl/site/issues"
   },
-  "homepage": "https://github.com/oliveira-a/site#readme",
+  "homepage": "https://github.com/andbrl/site#readme",
   "description": "",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
