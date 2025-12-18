@@ -14,8 +14,13 @@ experience below.
 
 ## work
 
+#### Software Engineer @ trainline
+*October 2025 - Present*
+
+- Part of search/supply team.
+
 #### Software Engineer @ Quilter Plc.
-*July 2022 – Present*
+*July 2022 – October 2025*
 - Designed and developed cloud-based consumer-facing services using .NET
 and Azure, efficiently handling 1M+ requests per month by implementing
 API gateway and Azure Functions.
