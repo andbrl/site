@@ -14,10 +14,9 @@ experience below.
 
 ## work
 
-#### Software Engineer @ trainline
+#### Software Engineer @ trainline plc.
 *October 2025 - Present*
-
-- Part of search/supply team.
+- Working with .NET 10 and latest features on high-throughput EU APIs at Trainline.
 
 #### Software Engineer @ Quilter Plc.
 *July 2022 – October 2025*
