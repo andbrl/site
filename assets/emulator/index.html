@@ -1,0 +1,13 @@
+<div class="emulator-container">
+  <canvas id="chip8"></canvas>
+</div>
+<script src="../assets/wasm_exec.js"></script>
+<script>
+  const go = new Go();
+  WebAssembly.instantiateStreaming(
+    fetch("../assets/gochip.wasm"),
+    go.importObject
+  ).then(result => {
+    go.run(result.instance);
+  });
+</script>
