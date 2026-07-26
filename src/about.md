@@ -1,7 +1,7 @@
 ---
-title: about
+title: résumé
 nav:
-    label: about
+    label: xp
     order: 2
 layout: base.njk
 ---
