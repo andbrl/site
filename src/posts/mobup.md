@@ -1,5 +1,6 @@
 ---
 title: Building mobup! — Learning Next.js by Creating a Collaboration Platform
+draft: true
 ---
 ## 1. intro
 
