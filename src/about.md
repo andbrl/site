@@ -1,7 +1,7 @@
 ---
 title: résumé
 nav:
-    label: xp
+    label: résumé
     order: 2
 layout: base.njk
 ---
