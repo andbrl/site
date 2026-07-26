@@ -8,28 +8,40 @@ layout: base.njk
 
 ## work
 
-#### Software Engineer @ trainline plc.
-*October 2025 - Present*
+#### swe @ Trainline Plc.
+*October 2025 – present*
 
-#### Software Engineer @ Quilter Plc.
+Working on streamlining Trainline's onboarding of new suppliers into the
+platform. This includes working on high-traffic services like search, where
+code efficiency is an essential requirement. Work with .NET and ASP.NET to
+design APIs that serve millions of users throughout the UK and Europe.
+
+#### junior then mid swe @ Quilter Plc.
 *July 2022 – October 2025*
 
-Designed and delivered cloud-based, consumer-facing services on .NET and Azure.
-Boosted team productivity by building an internal tool for streamlined Apigee
-log search and debugging. Automated OpenAPI-based code generation and developed
-Python reporting tools to provide leadership with actionable insights into code
-quality and security. Helped build the new [Quilter Cheviot
-portal](https://www.quiltercheviot.com/).
+Designed and developed cloud-based consumer-facing services in .NET and
+deployed to Azure (ASP.NET/Serverless functions). Built internal tooling using
+technologies like TypeScript/Angular or React to help with API gateway
+troubleshooting. Wrote a custom reporting tool using Python to generate
+codebase metrics, including test coverage, vulnerability alerts, Dependabot
+usage, etc., offering management actionable insights. During my last year at
+Quilter, I joined the product team, to help build the new platform for the
+[high-net worth
+platform](https://www.quiltercheviot.com/login/?Region=eur&Role=pc), Quilter
+Cheviot. Mostly back-end work with .NET/SQL and some Next.js.
 
-#### Software Engineer @ Pear Technology Ltd.
+#### associate swe @ Pear Technology Ltd.
 *October 2020 – July 2022*
 
-Maintained and enhanced features for an  in-house mapping software, improving
+Maintained and enhanced features for the in-house core mapping software
+product, [PearGIS](https://peartechnology.co.uk/products/peargis/), improving
 the overall user experience. I led a major source code migration to support a
 core library ([ThinkGeo](https://thinkgeo.com/mapping-data)) upgrade, resulting
-in faster map rendering, and optimized application startup.
+in faster map rendering, and optimized application startup. Experienced working
+in a large legacy codebase, while also being kept in close contact with users
+for direct user feedback loop.
 
-#### Software Engineer Intern @ Klekoo Srl.
+#### swe intern @ Klekoo Srl.
 *June 2019 – August 2019*
 
 Contributed to the development of marketing and e-commerce websites for
