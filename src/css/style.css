@@ -1,13 +1,20 @@
 body {
-  font-family: system-ui, sans-serif;
+  font-family: 'Courier New', monospace;
   margin: 0;
   padding: 0;
-  background-color: #fff;
-  color: #111;
+  background-color: #A8E6CF;
+  color: #FF6B6B;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a, a:link {
+  text-decoration: underline;
+  color: #FF6B6B !important;
 }
 
 .wrapper {
-  max-width: 50ch;
+  max-width: 60ch;
   margin: 4rem auto;
   margin-top: 1rem;
   padding: 0 1rem;
@@ -24,9 +31,9 @@ body {
 }
 
 .socials {
-    margin-left: auto;
-    display: flex;
-    gap: 0.5rem;
+  margin-left: auto;
+  display: flex;
+  gap: 0.5rem;
 }
 
 .socials img {
@@ -35,12 +42,6 @@ body {
   vertical-align: middle;
 }
 
-a {
-  text-decoration: none;
-  color: #007acc;
+h1, h2, h3, h4 {
+  font-style: italic;
 }
-
-a:hover {
-  text-decoration: underline;
-}
-
