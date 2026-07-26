@@ -12,8 +12,10 @@
         <header>
             <nav>
                 <div class="menu-items">
-                    {% for item in collections.nav %}
+                    {% for item in collections.all | sort(attribute='data.nav.order') %}
+                    {% if item.data.nav %}
                     <a href="{{ item.url }}">{{ item.data.nav.label }}</a>
+                    {% endif %}
                     {% endfor %}
                     <div class="socials">
                         <a href="https://github.com/andbrl">

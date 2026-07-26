@@ -12,12 +12,6 @@ module.exports = function (config) {
         }
     });
 
-    config.addCollection("nav", (collectionApi) => {
-      return collectionApi.getAll()
-        .filter(item => item.data.nav)
-        .sort((a, b) => a.data.nav.order - b.data.nav.order);
-    });
-
     return {
         dir: {
             input: "src",
